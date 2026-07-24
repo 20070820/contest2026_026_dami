@@ -1,0 +1,54 @@
+# Gen Make.dep automatically
+hello_app_main.c.home.lisheng.openvela.contest2026_026_dami.app.hello_app.o: \
+ hello_app_main.c /home/lisheng/openvela/nuttx/include/stdio.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/config.h \
+ /home/lisheng/openvela/nuttx/include/sys/types.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/compiler.h \
+ /home/lisheng/openvela/nuttx/include/stdint.h \
+ /home/lisheng/openvela/nuttx/include/arch/types.h \
+ /home/lisheng/openvela/nuttx/include/arch/inttypes.h \
+ /home/lisheng/openvela/nuttx/include/limits.h \
+ /home/lisheng/openvela/nuttx/include/arch/limits.h \
+ /opt/xtensa-esp32s3-elf/lib/gcc/xtensa-esp32s3-elf/12.2.0/include/stdarg.h \
+ /home/lisheng/openvela/nuttx/include/time.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/fs/fs.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/fs/ioctl.h \
+ /home/lisheng/openvela/nuttx/include/stdbool.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/serial/tioctl.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/fs/uio.h \
+ /home/lisheng/openvela/nuttx/include/sys/uio.h \
+ /home/lisheng/openvela/nuttx/include/dirent.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/mm/map.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/queue.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/mutex_type.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/semaphore_type.h \
+ /home/lisheng/openvela/nuttx/include/errno.h \
+ /home/lisheng/openvela/nuttx/include/semaphore.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/mm/gran.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/spawn.h \
+ /home/lisheng/openvela/nuttx/include/spawn.h \
+ /home/lisheng/openvela/nuttx/include/sched.h \
+ /home/lisheng/openvela/nuttx/include/strings.h \
+ /home/lisheng/openvela/nuttx/include/string.h \
+ /home/lisheng/openvela/nuttx/include/stddef.h \
+ /home/lisheng/openvela/nuttx/include/alloca.h \
+ /home/lisheng/openvela/nuttx/include/signal.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/irq.h \
+ /home/lisheng/openvela/nuttx/include/arch/irq.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/percpu.h \
+ /home/lisheng/openvela/nuttx/include/arch/syscall.h \
+ /home/lisheng/openvela/nuttx/include/arch/xtensa/core.h \
+ /home/lisheng/openvela/nuttx/include/arch/chip/core-isa.h \
+ /home/lisheng/openvela/nuttx/include/arch/chip/tie.h \
+ /home/lisheng/openvela/nuttx/include/arch/xtensa/xtensa_corebits.h \
+ /home/lisheng/openvela/nuttx/include/arch/xtensa/xtensa_specregs.h \
+ /home/lisheng/openvela/nuttx/include/arch/xtensa/xtensa_coproc.h \
+ /home/lisheng/openvela/nuttx/include/assert.h \
+ /home/lisheng/openvela/nuttx/include/arch/chip/irq.h \
+ /home/lisheng/openvela/nuttx/include/arch/lx7/irq.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/spinlock_type.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/atomic.h \
+ /home/lisheng/openvela/nuttx/include/nuttx/lib/lib.h \
+ /home/lisheng/openvela/nuttx/include/stdlib.h
+# No files specified for dependency generation
+# No files specified for dependency generation
